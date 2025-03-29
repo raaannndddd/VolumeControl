@@ -6,9 +6,6 @@ import numpy as np
 from collections import deque
 import math
 
-print(mp.__version__)
-print(vol.__version__)
-print(np.__version__)
 # Initializing the Model
 mpHands = mp.solutions.hands
 hands = mpHands.Hands(
