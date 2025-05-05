@@ -1,4 +1,4 @@
-# SettingsControl
+# Volume Control
 Using OpenCV to control the volume of the device
 
 create and activate a virtual environment:
